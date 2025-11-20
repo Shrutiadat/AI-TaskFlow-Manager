@@ -1,0 +1,10 @@
+.env
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Package manager lock files (optional, but recommended)
+package-lock.json
+package.json
+yarn.lock
+pnpm-lock.yaml  
