@@ -398,16 +398,16 @@ This project is created for educational purposes as part of a Frontend Developer
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](<img width="1918" height="870" alt="Screenshot 2025-11-20 115142" src="https://github.com/user-attachments/assets/c7713bf6-4670-43a6-9541-3737456756d0" />)
+<img width="1918" height="870" alt="Screenshot 2025-11-20 115142" src="https://github.com/user-attachments/assets/c7713bf6-4670-43a6-9541-3737456756d0">
 
 ### Dashboard
-![Dashboard](<img width="1919" height="874" alt="Screenshot 2025-11-20 120114" src="https://github.com/user-attachments/assets/4aee6740-04cc-4f89-a43b-c1de775aaf44" />)
+<img width="1919" height="874" alt="Screenshot 2025-11-20 120114" src="https://github.com/user-attachments/assets/4aee6740-04cc-4f89-a43b-c1de775aaf44">
 
 ### Task Management
-![Tasks](<img width="575" height="581" alt="Screenshot 2025-11-20 120218" src="https://github.com/user-attachments/assets/da22115e-c3b7-43df-8d1a-50f41eb33894" />)
+<img width="575" height="581" alt="Screenshot 2025-11-20 120218" src="https://github.com/user-attachments/assets/da22115e-c3b7-43df-8d1a-50f41eb33894">
 
 ### Profile Page
-![Profile](<img width="1918" height="866" alt="Screenshot 2025-11-20 120147" src="https://github.com/user-attachments/assets/fa5596b0-47b0-48ff-9ede-e1f388803217" />)
+<img width="1918" height="866" alt="Screenshot 2025-11-20 120147" src="https://github.com/user-attachments/assets/fa5596b0-47b0-48ff-9ede-e1f388803217">
 
 ---
 
